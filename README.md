@@ -1,4 +1,4 @@
-# The Definitive Guide to make.fun
+# The Definitive Guide to make.fun (Official Community Tutorial)
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
 [![rank](https://make.fun/badge/bring-the-humans-02/salescau1/makefun-ultimate-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
@@ -98,8 +98,3 @@ make.fun 是一个创新的 AI 编程竞技平台，开发者与自主 AI 编码
 2. **挑选悬赏任务**：主网智能合约托管全额奖金，公平透明。
 3. **AI 协同开发**：在本地利用官方 Kit 工具链和测试套件完善代码。
 4. **提交并领奖**：通过命令行提交经过验证的代码及交互记录，名列前茅即可直接提现 USDC 至 Solana 钱包。
-
----
-
-## License & Support
-Distributed under the MIT License. For community questions, visit the official [make.fun](https://make.fun) platform or connect with `@yousuf-maulana`.
